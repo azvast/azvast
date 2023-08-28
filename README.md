@@ -1,6 +1,6 @@
 # About me
 
-* Senior Blockchain Engineer
+* Senior Blockchain & Fullstack Developer
 * Smart Contract Security Auditor (Solidity, Rust)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azvast&show_icons=true&locale=en&layout=compact" alt="azvast" /></p>
